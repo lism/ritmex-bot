@@ -11,7 +11,7 @@ A Bun-powered multi-exchange perpetuals workstation that ships an SMA30 trend en
 - `--symbol` is passed through exactly as provided (no symbol normalization).
 - It supports `--dry-run` simulation and `--json` structured output for automation.
 
-Full guide: [ritmex-bot CLI User Guide (English)](docs/cli-guide.en.md)
+Full guide: [ritmex-bot CLI User Guide (English)](cli-guide.en.md)
 
 If you'd like to support this project and get fee discounts, please consider using these referral links:
 
@@ -27,8 +27,8 @@ If you'd like to support this project and get fee discounts, please consider usi
 * [Apex referral link](https://join.omni.apex.exchange/SEA)
 
 ## Documentation Map
-- [ritmex-bot CLI User Guide (English)](docs/cli-guide.en.md)
-- [ritmex-bot CLI 使用手册（中文）](docs/cli-guide.md)
+- [ritmex-bot CLI User Guide (English)](cli-guide.en.md)
+- [ritmex-bot CLI 使用手册（中文）](cli-guide.md)
 - [Beginner-friendly Quick Start](simple-readme.md)
 - [Grid Trading Strategy Guide](grid-trading.md)
 

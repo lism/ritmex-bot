@@ -15,7 +15,7 @@ A Bun-powered multi-exchange perpetuals workstation that ships an SMA30 trend en
 - `--symbol` 原样透传，不对交易对做统一改写。
 - 支持 `--dry-run` 模拟执行与 `--json` 结构化输出，便于自动化系统集成。
 
-完整文档请见：[ritmex-bot CLI 使用手册（中文）](docs/cli-guide.md)
+完整文档请见：[ritmex-bot CLI 使用手册（中文）](cli-guide.md)
 
 如果您希望获取优惠并支持本项目，请考虑使用以下注册链接：
 
@@ -31,8 +31,8 @@ A Bun-powered multi-exchange perpetuals workstation that ships an SMA30 trend en
 * [Apex 手续费优惠注册链接](https://join.omni.apex.exchange/SEA)
 
 ## 文档索引
-- [ritmex-bot CLI 使用手册（中文）](docs/cli-guide.md)
-- [ritmex-bot CLI User Guide (English)](docs/cli-guide.en.md)
+- [ritmex-bot CLI 使用手册（中文）](cli-guide.md)
+- [ritmex-bot CLI User Guide (English)](cli-guide.en.md)
 - [简明上手指南（零基础）](simple-readme.md)
 - [基础网格策略使用教程](grid-trading.md)
 
